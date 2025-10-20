@@ -7,4 +7,4 @@ Proyecto del sprint 7
 HTML, CSS3, JavaScript
 
 ** Visita el sitio web:
-https://github.com/NattyToolss/web_project_expenses_es.git)
+https://github.com/NattyToolss/web_project_expenses_es.git
