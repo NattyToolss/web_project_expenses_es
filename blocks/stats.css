@@ -61,15 +61,15 @@
 }
 
 .stats__item-value_balance_negative {
-  color: rgba(232, 77, 89, 1); 
+  color: rgba(232, 77, 89, 1);
 }
 
 .stats__item-value_balance_warning {
-  color: rgba(247, 184, 38, 1); 
+  color: rgba(247, 184, 38, 1);
 }
 
 .stats__item-value_balance_positive {
-  color: rgba(26, 183, 89, 1); 
+  color: rgba(26, 183, 89, 1);
 }
 
 .stats__item-value_largest {

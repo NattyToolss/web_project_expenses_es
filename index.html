@@ -42,7 +42,7 @@
           <h2 class="stats__title">Categoría más grande</h2>
           <div class="stats__container">
             <div class="stats__item">
-              <h3 class="stats__item-title stats__item-title_largest"></h3>
+              <h3 class="stats__item-title stats__item-title_largest">ok</h3>
               <p
                 class="stats__item-value stats__item-value_largest"
                 id="largest-category-value"
@@ -119,6 +119,7 @@
       </main>
       <footer class="footer">
         <p class="footer__copyright">2025 &copy; Gastos</p>
+        <p class="footer__copyright">Derechos Reservados</p>
       </footer>
     </div>
     <div class="modal" id="add-expense-modal">
@@ -161,5 +162,9 @@
         </form>
       </div>
     </div>
+    <!-- Paso 1.- Se cargan las funciones de cada archivo  Paso 1.- Se cargan las funciones en el orden correcto para que no haya errores de referencia-->
+    <script src="./scripts/calculations.js"></script>
+    <script src="./scripts/handle-html.js"></script>
+    <script src="./scripts/index.js"></script>
   </body>
 </html>

@@ -122,7 +122,11 @@ function handleSaveBudget() {
 
 function updateBalanceElementColor() {
   updateBalanceColor();
-  const colorClasses = ["stats__item-value_balance_negative", "stats__item-value_balance_warning", "stats__item-value_balance_positive"];
+  const colorClasses = [
+    "stats__item-value_balance_negative",
+    "stats__item-value_balance_warning",
+    "stats__item-value_balance_positive",
+  ];
   balanceValueElement.classList.remove(...colorClasses);
 
   if (balanceColor === "red") {
