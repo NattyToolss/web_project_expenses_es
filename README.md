@@ -2,8 +2,9 @@
 
 Proyecto del sprint 7
 
-Herramientas Utilizadas
+** Herramientas Utilizadas:
+
 HTML, CSS3, JavaScript
 
-Visita el sitio web
-git@github.com:NattyToolss/web_project_expenses_es.git
+** Visita el sitio web:
+https://github.com/NattyToolss/web_project_expenses_es.git)
